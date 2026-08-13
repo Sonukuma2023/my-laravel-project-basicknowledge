@@ -17,6 +17,12 @@
                 <Link href="/categories" class="menu-item">
                     Categories
                 </Link>
+                <Link href="/dashboard" class="menu-item">
+                     order list
+                </Link>
+                <Link href="/dashboard" class="menu-item">
+                    payments list
+                </Link>
 
                 <button @click="logout" class="logout-btn">
                     Logout
