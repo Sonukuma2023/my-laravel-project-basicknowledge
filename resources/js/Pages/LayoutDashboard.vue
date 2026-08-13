@@ -23,6 +23,9 @@
                 <Link href="/dashboard" class="menu-item">
                     payments list
                 </Link>
+                <Link href="/dashboard" class="menu-item">
+                    test buttion
+                </Link>
 
                 <button @click="logout" class="logout-btn">
                     Logout
